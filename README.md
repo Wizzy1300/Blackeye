@@ -5,13 +5,13 @@ Key Features:
 Discord ID to IPv4
 Exploits a vulnerability in RestoreCord to resolve a user's Discord ID to their IPv4 address. Useful for understanding how platform security can be compromised through misconfigurations.
 
-Image Logger
+Image Logger:
 An advanced payload delivery mechanism embedded in an image file. When opened, it executes commands to simulate infection scenarios—ideal for studying attack vectors and defense mechanisms.
 
-Gaming Utilities
+Gaming Utilities:
 A customizable cheat client for Fortnite and Valorant. Built to analyze and test anti-cheat systems and understand the security frameworks of modern games.
 
-DDoS Simulation Tool
+DDoS Tool:
 Launches stress-testing attacks using our C2 servers, allowing you to evaluate server resilience under extreme conditions. Note: This should only be used on systems you own or have explicit permission to test.
 
 ⚠️ Disclaimer:
