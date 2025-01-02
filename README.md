@@ -18,3 +18,4 @@ Launches stress-testing attacks using our C2 servers, allowing you to evaluate s
 This tool is intended only for ethical purposes in controlled environments where explicit authorization has been provided. Misuse, including illegal activities such as unauthorized DDoS attacks or data exploitation, is a violation of the law. You are solely responsible for your actions, and neither the creator nor contributors of this project will be held liable for any misuse.
 
 Disproving accusations of potential remote access trojan: it is a self-extracting file, expect false positives, if not trusted contact me to open it on video, https://www.virustotal.com/gui/file/4fb7f001bcd3300e1db9a86267ba51a7e08d4c308717a0ff511ceb6492b76c12
+Update: Cheat now supports, minecraft and counterstrike!
